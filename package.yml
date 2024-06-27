@@ -1,0 +1,19 @@
+# Alle hier gesetzten Werte können über $addon->getProperty($key) abgefragt werden
+
+package: popupmanager																							#Pflichtfeld
+version: '1.0-beta1'																								#Pflichtfeld
+author: Falko Müller
+supportpage: https://github.com/iceman-fx/popupmanager
+
+page:
+    title: 'translate:a1837_title'
+    perm: popupmanager[]
+    icon: rex-icon fa-window-maximize
+    subpages:
+        default: { title: 'translate:a1837_default' }
+
+        help: { title: 'translate:a1837_help', icon: rex-icon fa-info-circle, itemclass: pull-right }
+        config: { title: 'translate:a1837_config', icon: rex-icon fa-wrench, itemclass: pull-right }
+
+requires:
+    redaxo: '^5.15.0'

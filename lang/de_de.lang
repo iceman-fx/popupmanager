@@ -1,0 +1,230 @@
+# addon: popupmanager de_de
+
+a1837_title = Popup-Manager
+
+a1837_default = Popups
+a1837_config = Einstellungen
+a1837_help = Hilfe
+
+a1837_head_basics = Popup
+a1837_head_cat = Kategorie
+a1837_head_config = Einstellungen
+a1837_head_help = Onlinehilfe
+
+a1837_subheader_bas1 = Allgemein
+a1837_subheader_bas2 = Definition Popup
+a1837_subheader_bas3 = Anzeige-Einstellungen
+
+a1837_subheader_tab1 = Texte & Bilder
+a1837_subheader_tab2 = Hintergrund
+a1837_subheader_tab3 = Größen & Abstände
+a1837_subheader_tab4 = Design
+a1837_subheader_tab5 = Anzeige-Einstellungen
+
+a1837_text1 = *1) Nur in Verbindung mit hinterlegtem Popup-Text wirksam
+a1837_text2 = *1) Nur in Verbindung mit hinterlegtem Popup-Text & Bildposition links/rechts wirksam
+
+
+# Globale Felder
+a1837_std_status = Sichtbar / Aktiv
+a1837_std_title = Titel / Bezeichnung
+a1837_std_description = Beschreibung
+a1837_std_left = Links
+a1837_std_top = Oben
+a1837_std_top@0 = Oben (ohne Abstand)
+a1837_std_right = Rechts
+a1837_std_bottom = Unten
+a1837_std_bottom@0 = Unten (ohne Abstand)
+a1837_std_center = Mitte
+
+
+# Seite: Default
+a1837_bas_requiredfields = Pflichtfelder
+a1837_bas_preview = Vorschau
+a1837_bas_change_editorbg = Editor-Hintergrund wechseln ...
+
+a1837_bas_content = Popup-Text
+a1837_bas_media = Popup-Bild
+a1837_bas_media_position = Position des Bildes
+a1837_bas_media_width = Breite des Bildes
+a1837_bas_media_ratio = Format des Bildes
+a1837_bas_media_ratio_vertical = Vertikal
+a1837_bas_media_ratio_equal = Höhe der höchsten Spalte
+a1837_bas_media_ratio_original = Original
+
+a1837_bas_textplaceholder = Ausgabetexte (Platzhalter)
+a1837_bas_textplaceholder_opener = bearbeiten ...
+a1837_bas_textplaceholder_info = Vorgaben wiederherstellen ...
+
+a1837_bas_bg_intocontent = Hintergrund im Popup-Text
+a1837_bas_bg_intocontent_info = Hintergrund im Popup-Text-Bereich anstatt im gesamtem Popup anzeigen
+a1837_bas_bg_color = Hintergrundfarbe
+a1837_bas_bg_color_example = Bsp. #003366
+a1837_bas_bg_image = Hintergrundbild
+a1837_bas_bg_image_fill = Bildausfüllung
+a1837_bas_bg_image_fill_none = - keine Bildausfüllung -
+a1837_bas_bg_image_fill_cover = Ausfüllen
+a1837_bas_bg_image_fill_contain = Einpassen
+a1837_bas_bg_image_fill_repeat = Wiederholen
+a1837_bas_bg_image_fill_repeatx = Wiederholen (nur horizontal)
+a1837_bas_bg_image_fill_repeaty = Wiederholen (nur vertikal)
+a1837_bas_bg_image_position = Ausrichtung Hintergrund
+a1837_bas_bg_image_position_cc = Bildmitte
+a1837_bas_bg_image_position_lt = Links oben
+a1837_bas_bg_image_position_rt = Rechts oben
+a1837_bas_bg_image_position_rb = Rechts unten
+a1837_bas_bg_image_position_lb = Links unten
+a1837_bas_bg_image_position_ct = Mitte oben
+a1837_bas_bg_image_position_cr = Mitte rechts
+a1837_bas_bg_image_position_cb = Mitte unten
+a1837_bas_bg_image_position_cl = Mitte links
+
+a1837_bas_options_design = Design-Anpassungen
+a1837_bas_options_position = Popup-Position
+a1837_bas_options_closebtn = Schließen-Schaltfläche
+a1837_bas_options_closebtn_none = - keine Schließen-Schaltfläche -
+a1837_bas_options_closebtn_inner = innerhalb des Popup
+a1837_bas_options_closebtn_outer = außerhalb des Popup
+a1837_bas_options_closebtn_corner = auf dem Rand/der Ecke liegend
+a1837_bas_options_borderradius = Abgerundete Ecken
+a1837_bas_options_borderradius_preset_none = Kein Abrundung
+a1837_bas_options_borderradius_preset_small = Normale Abrundung
+a1837_bas_options_borderradius_preset_large = Starke Abrundung
+a1837_bas_options_shadow = Schatten
+a1837_bas_options_overlay = Hintergrund abdunkeln
+a1837_bas_options_overlay_blur = Hintergrund weichzeichnen
+
+a1837_bas_options_fx = Einblendeffekt
+a1837_bas_options_fx_fade = Fade
+a1837_bas_options_fx_slideup = Slide (nach oben)
+a1837_bas_options_fx_slidedown = Slide (nach unten)
+a1837_bas_options_fx_slideleft = Slide (nach links)
+a1837_bas_options_fx_slideright = Slide (nach rechts)
+a1837_bas_options_fx_flipup = Flip (nach oben)
+a1837_bas_options_fx_flipdown = Flip (nach unten)
+a1837_bas_options_fx_flipleft = Flip (nach links)
+a1837_bas_options_fx_flipright = Flip (nach rechts)
+a1837_bas_options_fx_zoomin = Zoom-in
+a1837_bas_options_fx_zoomout = Zoom-out
+
+a1837_bas_sizes_width = Popup-Breite
+a1837_bas_sizes_fullwidth = Popup auf 100% Breite strecken
+a1837_bas_sizes_padding = Innenabstand
+a1837_bas_sizes_padding_mobile = Innenabstand (mobile Ansicht)
+
+a1837_bas_display_delay = Zeitverzögerte Ansicht
+a1837_bas_display_cookie = Popup geschlossen halten
+a1837_bas_display_cookie_none = Niemals (immer wieder anzeigen)
+a1837_bas_display_cookie_1h = 1 Stunde
+a1837_bas_display_cookie_2h = 2 Stunden
+a1837_bas_display_cookie_6h = 6 Stunden
+a1837_bas_display_cookie_12h = 12 Stunden
+a1837_bas_display_cookie_1day = 1 Tag
+a1837_bas_display_cookie_3days = 3 Tage
+a1837_bas_display_cookie_7days = 7 Tage
+a1837_bas_display_date = Anzeigen vom ...
+a1837_bas_display_date_to = bis
+
+a1837_bas_display_device = Ansicht (Viewport)
+a1837_bas_display_device_all = Desktopansicht & mobile Ansicht
+a1837_bas_display_device_desktop = nur in der Desktopansicht
+a1837_bas_display_device_mobile = nur in der mobilen Ansicht
+a1837_bas_display_articlemode = Anzeige auf Seiten
+a1837_bas_display_articlemode_all = alle Seiten
+a1837_bas_display_articlemode_whitelist = nur auf ausgewählten Seiten
+a1837_bas_display_articlemode_blacklist = <u>nicht</u> auf ausgewählten Seiten
+a1837_bas_display_articlemode_articles = Auswahl Seiten (Artikel)
+
+a1837_bas_list_name = Titel / Bezeichnung
+a1837_bas_list_displaysettings = Anzeigeoptionen
+a1837_bas_list_device = Ansicht (Viewport)
+a1837_bas_list_visible = Sichtbar:
+a1837_bas_list_device_all = Desktop & Mobile
+a1837_bas_list_device_desktop = nur Desktop
+a1837_bas_list_device_mobile = nur Mobile
+a1837_bas_list_articlemode = Seitenanzeige
+a1837_bas_list_articlemode_all = alle Seiten
+a1837_bas_list_articlemode_whitelist = nur ausgewählte Seiten
+a1837_bas_list_articlemode_blacklist = <u>nicht</u> auf ausgewählten Seiten
+
+
+# Seite: Einstellungen
+a1837_config_embed = CSS & JavaScript
+a1837_config_embed_script_info = JavaScript automatisch im Frontend einbinden
+a1837_config_embed_css_info = CSS automatisch im Frontend einbinden
+a1837_config_editor_class = Einbindung WYSIWYG-Editor (CSS-Klasse)
+a1837_config_editor_class_example = Beispiel: ckeditor
+a1837_config_editor_data = Einbindung WYSIWYG-Editor (DATA-Attribut)
+a1837_config_editor_data_example = Beispiel: data-ckeditor-profile="full"
+a1837_config_body_scrollbar_info = Scrollbar der Webseite ausblenden
+
+
+# Einbindung/Ausgabe
+a1837_mod_header = Auswahl der Artikel-Vorlage
+a1837_mod_addtemplate = Artikelvorlage wählen
+a1837_mod_searching = Suchbegriff eingeben ...
+a1837_mod_loading = Vorlagen werden geladen ...
+a1837_mod_notfound = Es konnten keine hinterlegten Vorlagen gefunden werden.
+
+
+# Sonstige Vorgaben
+a1837_example = Beispiel
+a1837_examples = Beispiele...
+a1837_days = Tage
+a1837_clock = Uhr
+a1837_overview = Übersicht:
+a1837_calendar = Kalender öffnen
+
+a1837_search_all = alle
+a1837_search_noselection = - keine Auswahl -
+a1837_search_sort = Ansicht
+a1837_search_sort_onlyactive = nur aktive Einträge (online)
+a1837_search_sort_onlyinactive = nur deaktivierte Einträge (offline)
+a1837_search_keyword = Suchbegriff
+a1837_search_submit = suchen
+a1837_search_reset = Suche zurücksetzen
+a1837_search_notfound = Es wurden keine Einträge gefunden.
+a1837_search_more = mehr Optionen
+a1837_search_cat = Kategorie
+a1837_search_archive = Nur Archiveinträge anzeigen
+
+a1837_edit = ändern
+a1837_duplicate = duplizieren
+a1837_delete = löschen
+a1837_online = online
+a1837_offline = offline
+a1837_new = hinzufügen
+a1837_create = erstellen
+a1837_save = Speichern
+a1837_apply = Übernehmen
+a1837_abort = Abbrechen
+a1837_close = Schließen
+a1837_accept = übernehmen
+a1837_open= öffnen
+a1837_remove = entfernen
+a1837_copiedname = _Kopie
+a1837_yes = ja
+a1837_no = nein
+a1837_all = alle
+a1837_details = Details
+a1837_statusfunc = Funktionen
+a1837_setstatus = Status ändern
+a1837_showhide = anzeigen/ausblenden
+a1837_showbox = anzeigen/ausblenden
+
+a1837_notice = Hinweis
+a1837_error = Es ist ein Fehler aufgetreten!
+a1837_settings_saved = Die Einstellungen wurden gespeichert
+a1837_entry_saved = Eintrag gespeichert
+a1837_entry_deleted = Eintrag gelöscht
+a1837_entry_used = Eintrag ist einem anderen Datensatz zugeordnet.
+a1837_entry_exists = Ein Eintrag mit dieser Bezeichnung/Kennung existiert bereits.
+a1837_entry_emptyfields = Es wurden nicht alle Pflichtfelder ausgefüllt.
+a1837_entry_emptyfield = Ein zusätzlich benötigtes Feld wurde nicht ausgefüllt
+a1837_entry_badchars = Es wurden unzulässige Zeichen eingegeben
+a1837_error_saved = Fehler beim Speichern
+a1837_error_deleted = Fehler beim Löschen
+a1837_error_setstatus = Fehler beim Statusändern
+a1837_error_setstatus_info = Hinweis: Status wegen bestehender Zuweisung nicht geändert!
+
+a1837_entry_emptycontent = Hinterlegen Sie mindestens einen Popup-Text oder ein Popup-Bild.
