@@ -1,4 +1,4 @@
-﻿Popupmanager
+﻿Popupmanager -> noch BETA!!!
 ============
 
 Redaxo 5-Addon zum Erstellen und Einblenden von Popups innerhalb der Homepage.
