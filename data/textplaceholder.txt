@@ -1,0 +1,2 @@
+popup_title = Popup
+close_btn = Popup schließen
